@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/secure-notes-collaborative-platform-304926-304936/notes_frontend"
+}
